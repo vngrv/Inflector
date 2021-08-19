@@ -1,0 +1,22 @@
+{
+  "name": "inflector",
+  "version": "1.0.0",
+  "description": "Module returns filename",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vngrv/Inflector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vngrv/Inflector/issues"
+  },
+  "homepage": "https://github.com/vngrv/Inflector#readme"
+}
